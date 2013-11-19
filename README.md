@@ -1,10 +1,10 @@
 # 俺のゼニはどこ行った for 小金井
 
-wheredoesmymoney.orgの東京都小金井市バージョンです．
+wheredoesmymoney.orgの東京都府中市バージョンです．
 
-横浜バージョンから派生しました。
+小金井市バージョンから派生しました。
 
-データ・ソースは http://openspending.org/jptokyokoganeibudget
+データ・ソースは https://openspending.org/fuchu-tokyo
 
 Core Team: (@は Twitter Account)
 
