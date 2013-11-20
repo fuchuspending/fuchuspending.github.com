@@ -1,1 +1,1 @@
-Where Does My Money Go? Yokohama team https://github.com/koganeibudget/koganeibudget.github.com
+Where Does My Money Go? Yokohama team https://github.com/fuchuspending/fuchuspending.github.com
