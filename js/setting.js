@@ -67,6 +67,8 @@ OpenSpending.Styles.Cofog = {
   '1302': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#935B3B' }, // 諸支出金 財政調整基金費
   '1303': { icon: 'icons/government-uk.svg', color: '#C75746', bcolor: '#935B3B' }, // 諸支出金 公共施設整備基金費
   '1305': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#935B3B' }, // 諸支出金 環境基金費
+  '14': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#C35B4B' }, // 予備費
+  '1401': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#C35B4B' }  // 予備費 予備費
 };
 
 
