@@ -27,6 +27,7 @@ OpenSpending.Styles.Cofog = {
   '204': { icon: 'icons/family2.svg', color: '#C75746', bcolor: '#0AB971' }, // 総務費 選挙費
   '205': { icon: 'icons/research.svg', color: '#C75746', bcolor: '#0AB971' }, // 総務費 統計調査費
   '206': { icon: 'icons/courts.svg', color: '#C75746', bcolor: '#0AB971' }, // 総務費 監査委員費
+  '207': { icon: 'icons/courts.svg', color: '#C75746', bcolor: '#0AB971' }, // 総務費 文化振興費
   '3': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#4E6D00' }, // 民生費
   '301': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#4E6D00' }, // 民生費 社会福祉費
   '302': { icon: 'icons/harbor.svg', color: '#C75746', bcolor: '#4E6D00' }, // 民生費 児童福祉費
@@ -59,14 +60,13 @@ OpenSpending.Styles.Cofog = {
   '1007': { icon: 'icons/sports.svg', color: '#C75746', bcolor: '#790586' }, // 教育費 社会体育費
   '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#D36B3B' }, // 公債費
   '1101': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#D36B3B' }, // 公債費
-  '12': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#935B3B' }, // 諸支出金
-  '1201': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#935B3B' }, // 諸支出金 公共施設管理基金費
-  '1202': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#935B3B' }, // 諸支出金 財政調整基金費
-  '1203': { icon: 'icons/government-uk.svg', color: '#C75746', bcolor: '#935B3B' }, // 諸支出金 公共施設整備基金費
-  '1204': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#935B3B' }, // 諸支出金 市民活動推進基金費
-  '1205': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#935B3B' }, // 諸支出金 環境基金費
-  '13': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#C35B4B' }, // 予備費
-  '1301': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#C35B4B' }  // 予備費 予備費
+  '12': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#C35B4B' }, // 公債費
+  '1201': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#C35B4B' }, // 公債費　公債費
+  '13': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#935B3B' }, // 諸支出金
+  '1301': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#935B3B' }, // 諸支出金 公共施設管理基金費
+  '1302': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#935B3B' }, // 諸支出金 財政調整基金費
+  '1303': { icon: 'icons/government-uk.svg', color: '#C75746', bcolor: '#935B3B' }, // 諸支出金 公共施設整備基金費
+  '1305': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#935B3B' }, // 諸支出金 環境基金費
 };
 
 
